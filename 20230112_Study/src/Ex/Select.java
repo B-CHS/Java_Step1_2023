@@ -14,7 +14,7 @@ public class Select {
 	public void Sel() {
 		name.name();
 		gender.gender();
-		int number = num.Member();
+		int number = Start.a;
 		while (true) {
 			if (number == 1)
 				sel1.Sel1();

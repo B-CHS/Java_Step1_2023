@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="20230112_Study/src"/>
+	<classpathentry excluding="chapter06/자판기/" kind="src" path="바탕 화면_src"/>
+	<classpathentry kind="src" path="바탕 화면_src/chapter06/자판기"/>
+	<classpathentry kind="output" path="20230112_Study/bin"/>
+</classpath>
